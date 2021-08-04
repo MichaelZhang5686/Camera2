@@ -15,4 +15,8 @@ Camera App write with API 2
 <img width="400" src="./img/intro_3.png"></img>
 <img width="400" src="./img/intro_4.png"></img>
 
+#Android Camera2 实现触摸对焦功能(Touch to Focus)
+#https://www.jianshu.com/p/49dcab6a1f75
+
+
 
